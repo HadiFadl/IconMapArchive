@@ -5,7 +5,8 @@ A repository that contains previous releases of deprecated [Icon Map visual for 
 
 -----------------------------------------
 
-# Releases Info (From the [Icon Map Downloads page](https://www.icon-map.com/downloads.html) before deletion)
+# Releases Info 
+**(Taken from the old Icon Map homepage.)**
 
 ## Icon Map V3 - visual
 #### 22nd September 2023 - [Icon Map 3.3.2](https://github.com/HadiFadl/IconMapArchive/blob/main/3.3.x/iconMapV34089C0EB522B416294AA926F71B4FDBBx.3.3.2.1.pbiviz) (test version - runs in parallel with version from AppSource)
