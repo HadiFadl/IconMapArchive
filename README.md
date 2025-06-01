@@ -1,6 +1,8 @@
 # IconMapArchive
 A repository that contains previous releases of deprecated [Icon Map visual for Power BI](https://www.icon-map.com/).
 
+![image info](IconMapLogo.svg)
+
 **Icon Map was a free custom visual for Microsoft Power BI - it is no longer being developed or supported. If you need an actively maintained and supported map visual for Power BI, consider [Icon Map Pro](https://iconmappro.com/), which offers enhanced features and dedicated support.**
 
 -----------------------------------------
