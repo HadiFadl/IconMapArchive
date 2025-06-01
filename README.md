@@ -102,12 +102,12 @@ A repository that contains previous releases of deprecated [Icon Map visual for 
 * Release for App Source
 * Updated http link to https for Icon Map support site
 
-#### 20th Decmber 2021 - [Icon Map 3.1.17 beta](https://github.com/HadiFadl/IconMapArchive/blob/main/3.1.x/iconMapV34089C0EB522B416294AA926F71B4FDBB.3.1.17.pbiviz)
+#### 20th December 2021 - [Icon Map 3.1.17 beta](https://github.com/HadiFadl/IconMapArchive/blob/main/3.1.x/iconMapV34089C0EB522B416294AA926F71B4FDBB.3.1.17.pbiviz)
 
 * Removed some debug output
 * Reinstated GeoJSON inactive formatting options that had been removed in error
 
-#### 6th Decmber 2021 - [Icon Map 3.1.16 beta](https://github.com/HadiFadl/IconMapArchive/blob/main/3.1.x/iconMapV34089C0EB522B416294AA926F71B4FDBB.3.1.16.pbiviz)
+#### 6th December 2021 - [Icon Map 3.1.16 beta](https://github.com/HadiFadl/IconMapArchive/blob/main/3.1.x/iconMapV34089C0EB522B416294AA926F71B4FDBB.3.1.16.pbiviz)
 
 * Added highlighting support for vector tile layers
 * Added auto zoom capbility for vector tile layers with long lats provided
